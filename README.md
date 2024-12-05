@@ -17,3 +17,6 @@ This mod was based on the Community Updates version 1.5.5 and does not have Mult
 
 ## Previews
 ![image](https://github.com/user-attachments/assets/630d9a53-bac2-41f2-a63f-2ca7ba621fed)
+![snap 0007](https://github.com/user-attachments/assets/4d932c1d-b32b-4ccd-af2e-784dab7bd9bc)
+![snap 0005](https://github.com/user-attachments/assets/179d6a67-0978-40ad-a6ff-7f8d3bea90f9)
+![snap 0006](https://github.com/user-attachments/assets/496bd129-9f43-4bda-9401-c2af8fb190a5)
